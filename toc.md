@@ -15,6 +15,7 @@ Design
 * [CodeChat Editor Design](docs/design.md)
 * [Implementation](docs/implementation.md)
 * [Accessibility review](docs/accessibility_review.md)
+* [YAML metadata block support](yaml-support-spec.md)
 
 Implementation
 ==============
